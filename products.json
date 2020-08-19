@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "journals",
+        "price": 45.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-bich-tran-760714.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "sweet diaries",
+        "price": 69.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-negative-space-169576.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "markers",
+        "price": 99.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-159705.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "scissors",
+        "price": 349.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-236118.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fountain pens",
+        "price": 1199.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-101539.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "wood pencils",
+        "price": 149.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-skitterphoto-419635.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "books",
+        "price": 3199.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-159866.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "notebooks",
+        "price": 79.00,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-236111.jpg" } } }
+      }
+    }
+  ]
+}
